@@ -1,0 +1,11 @@
+# Step 1: Navigated to my project folder
+cd alx-intermediate-frontend
+
+# Step 2: Created the sass directory
+mkdir 0x03-sass_scss
+
+# Step 3: Navigated into the new directory
+cd 0x03-sass_scss
+
+# Step 4: Installed sass version 3.7.4
+npm install sass -v 3.7.4
